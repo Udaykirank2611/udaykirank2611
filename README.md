@@ -80,9 +80,9 @@
 ## 🌐 Connect With Me
 
 * 📧 Email: [udaykirank2611@gmail.com](mailto:udaykirank2611@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/udaykirank2611](linkedin.com/in/udaykirank2611)
-* 💻 GitHub: github.com/udaykirank2611
-* 🧩 LeetCode: leetcode.com/udaykirank2611
+* 💼 LinkedIn: [LinkedIn](linkedin.com/in/udaykirank2611)
+* 💻 GitHub: [GitHub](github.com/udaykirank2611)
+* 🧩 LeetCode: [Leetcode](leetcode.com/udaykirank2611)
 
 ---
 
