@@ -1,93 +1,121 @@
-# 👋 Hi, I'm Uday Kiran Kandagatla
+<!-- FUTURISTIC HEADER -->
 
-🎓 Computer Science (Data Science) Student
-📍 India
-🤖 AI / Machine Learning Enthusiast | Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uday%20Kiran&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
----
+<h1 align="center">⚡ AI Engineer | ML Developer | Tech Explorer ⚡</h1>
 
-## 🚀 About Me
+<!-- TYPING ANIMATION -->
 
-* 🎓 B.E in Computer Science (Data Science) @ MVSR Engineering College
-* 🎓 Diploma in Data Science @ IIT Madras
-* 💡 Passionate about **AI Agents, LLMs, and Deep Learning**
-* ⚡ Love building intelligent systems that automate real-world tasks
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Agent+Developer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Building+Intelligent+Systems" />
+</p>
 
----
+<!-- VISITOR COUNTER -->
 
-## 🧠 Experience
-
-### 🔹 AI Agent Developer — Regen
-
-* Built **AI-powered autonomous agents** using Hugging Face Transformers
-* Designed **LLM-driven pipelines** for reasoning and workflow automation
-* Worked on **real-time inference systems** with open-source foundation models
-
-### 🔹 Software Development Intern — TEK Certify
-
-* Developed a **Siamese Neural Network** for dental X-ray matching
-* Achieved **96% accuracy** with reduced false positives
-* Optimized deep learning architecture for better performance
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udaykirank2611&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### 💻 Languages
-
-`Python` `C++` `Java`
-
-### 🤖 AI / ML
-
-`PyTorch` `TensorFlow` `Transformers` `CNN` `GNN`
-
-### 🧰 Tools & Frameworks
-
-`Hugging Face` `Scikit-learn` `OpenCV` `Git`
-
----
-
-## 📂 Projects
-
-### 🔐 AST-Based Vulnerability Detection using GNN
-
-* Built a **Graph Neural Network model** for detecting code vulnerabilities
-* Achieved **85% accuracy** on real-world datasets (SARD, Draper VDISC)
-* Processed **5000+ code samples**
+```yaml
+name: Uday Kiran Kandagatla
+role: AI / ML Engineer
+education:
+  - B.E Computer Science (Data Science)
+  - IIT Madras Diploma in Data Science
+interests:
+  - AI Agents
+  - LLMs
+  - Deep Learning
+  - Automation Systems
+```
 
 ---
 
-### 🧠 Brain Tumor Detection
+## ⚡ Tech Arsenal
 
-* Developed **ResUNet model** for MRI scan analysis
-* Trained on **3000+ images** with data augmentation
-* Improved dataset size by **2.5×**
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,git,opencv,sklearn&theme=dark" />
 
-## 📊 GitHub Stats
-
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaykirank2611\&show_icons=true\&theme=radical)
+</p>
 
 ---
 
-## 🔥 Streak Stats
+## 🚀 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=udaykirank2611\&theme=radical)
+🔐 **AST-Based Vulnerability Detection**
+→ Graph Neural Networks for secure code analysis
+→ 85% accuracy on real-world datasets
+
+🧠 **Brain Tumor Detection**
+→ ResUNet model on MRI scans
+→ Improved dataset with augmentation
+
+---
+
+## 📊 Neural Stats Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykirank2611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykirank2611&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=udaykirank2611&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=udaykirank2611&theme=matrix&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [udaykirank2611@gmail.com](mailto:udaykirank2611@gmail.com)
-* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/udaykirank2611)
-* 💻 GitHub: [GitHub](https://github.com/udaykirank2611)
-* 🧩 LeetCode: [LeetCode](https://leetcode.com/udaykirank2611)
+<p align="center">
+  <a href="mailto:udaykirank2611@gmail.com">
+    <img src="https://img.shields.io/badge/Email-AI%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/udaykirank2611">
+    <img src="https://img.shields.io/badge/LinkedIn-Uday%20Kiran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/udaykirank2611">
+    <img src="https://img.shields.io/badge/GitHub-Core%20Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/udaykirank2611">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ AI Quote
 
-> I enjoy turning complex problems into intelligent automated solutions 🤖
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
 
 ---
+
+<!-- FUTURISTIC FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
