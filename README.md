@@ -79,8 +79,8 @@
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [udaykirank1126@gmail.com](mailto:udaykirank2611@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/udaykirank2611
+* 📧 Email: [udaykirank2611@gmail.com](mailto:udaykirank2611@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/udaykirank2611](linkedin.com/in/udaykirank2611)
 * 💻 GitHub: github.com/udaykirank2611
 * 🧩 LeetCode: leetcode.com/udaykirank2611
 
