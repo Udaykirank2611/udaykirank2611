@@ -67,22 +67,22 @@
 
 ## 📊 GitHub Stats
 
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaykirank2611\&show_icons=true\&theme=radical)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=udaykirank2611\&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [udaykirank1126@gmail.com](mailto:udaykirank1126@gmail.com)
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
-* 💻 GitHub: YOUR_GITHUB_URL
-* 🧩 LeetCode: YOUR_LEETCODE_URL
+* 📧 Email: [udaykirank1126@gmail.com](mailto:udaykirank2611@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/udaykirank2611
+* 💻 GitHub: github.com/udaykirank2611
+* 🧩 LeetCode: leetcode.com/udaykirank2611
 
 ---
 
