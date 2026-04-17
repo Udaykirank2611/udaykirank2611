@@ -110,21 +110,27 @@ interests:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:udaykirank2611@gmail.com">
-    <img src="https://img.shields.io/badge/Email-AI%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/udaykirank2611">
-    <img src="https://img.shields.io/badge/LinkedIn-Uday%20Kiran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="mailto:udaykirank2611@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-ff4b2b?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/udaykirank2611">
-    <img src="https://img.shields.io/badge/GitHub-Core%20Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/udaykirank2611">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Uday%20Kiran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://leetcode.com/udaykirank2611">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+<a href="https://github.com/udaykirank2611">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/udaykirank2611">
+  <img src="https://img.shields.io/badge/🧩%20LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://udaykiran.me">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Site-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
