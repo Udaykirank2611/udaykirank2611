@@ -41,9 +41,32 @@ interests:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,git,opencv,sklearn&theme=dark" />
+<!-- TOOL ICONS -->
+
+<img src="https://skillicons.dev/icons?i=python,c,git,sklearn&theme=dark" />
 
 </p>
+
+<p align="center">
+
+<!-- AI/ML BADGES -->
+
+<img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge&logo=ai&logoColor=black"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-FF00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Development-00FFFF?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<!-- DATA TOOLS -->
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+</p>
+
 
 ---
 
